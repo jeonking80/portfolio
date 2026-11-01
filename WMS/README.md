@@ -2,7 +2,7 @@
 
 입고부터 출하·반품까지, 실물·잔량·담당자를 서버 규칙과 지울 수 없는 원장으로 연결한 웹 창고 운영 시스템입니다.
 
-**[포트폴리오 PDF 다운로드](wms-lite-portfolio.pdf)** · [공개 데모](https://wms-saa-s-platform.vercel.app/dashboard/v2) · [소스 코드](https://github.com/jeonking80/WMS-SaaS-Platform)
+**[포트폴리오 PDF 다운로드](wms-lite-portfolio.pdf)** · [공개 데모](https://wms-saa-s-platform.vercel.app/dashboard/v2)
 
 작성자 전우석 · 개발 기간 2일 · 1인 프로젝트 (기획·규칙 결정·검증 주도, AI 도구로 구현)
 
